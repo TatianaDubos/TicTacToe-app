@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="score">SCORE :</string>
+    <string name="zero">0</string>
+    <string name="o">Ｏ</string>
+    <string name="x">✕</string>
+    <string name="nouvelle_partie">nouvelle partie</string>
+    <string name="confirmer">confirmer</string>
+    <string name="premier_joueur">Premier joueur</string>
+    <string name="nom">Nom</string>
+    <string name="Score">Score</string>
+    <string name="deuxi_joueur">Deuxième joueur</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="joueur_existant">Joueur existant</string>
+    <string name="joueur">Joueur</string>
+    <string name="jouer">Jouer</string>
+</resources>
